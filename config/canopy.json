@@ -1,0 +1,26 @@
+{
+  "prod": {
+    "label": { "none": ["Abolition Now"] },
+    "summary": {
+      "none": ["Brief description of the site and its contents."]
+    },
+    "collection": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/collection.json",
+    "featured": [
+      "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/c58a186d-a2b8-4b55-a015-30f60a7ed3f3.json",
+      "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/3dad556e-2a68-46a8-9671-041205a99f87.json"
+    ],
+    "metadata": ["Subjects"]
+  },
+  "dev": {
+    "label": { "none": ["Abolition Now"] },
+    "summary": {
+      "none": ["Brief description of the site and its contents."]
+    },
+    "collection": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/collection.json",
+    "featured": [
+      "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/c58a186d-a2b8-4b55-a015-30f60a7ed3f3.json",
+      "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/3dad556e-2a68-46a8-9671-041205a99f87.json"
+    ],
+    "metadata": ["Subjects"]
+  }
+}
